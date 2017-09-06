@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.8.4.201703310634-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/resources/config/annotation.xml</config>
+		<config>src/main/resources/config/c3p0.xml</config>
+		<config>src/main/resources/applicationContext.xml</config>
+		<config>src/main/resources/config/property.xml</config>
+		<config>src/main/resources/config/mybatis.xml</config>
+		<config>src/main/resources/config/transaction.xml</config>
+		<config>src/main/resources/springmvc-front.xml</config>
+		<config>src/main/resources/springmvc-back.xml</config>
+		<config>src/main/resources/config/captcha.xml</config>
+		<config>src/main/resources/config/redis.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

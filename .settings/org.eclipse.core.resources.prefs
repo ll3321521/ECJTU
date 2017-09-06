@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ll/core/bean/user/Buyer.java=UTF-8
+encoding//src/main/java/com/ll/core/dao/product/ColorDao.java=UTF-8
+encoding//src/main/java/com/ll/core/query/country/CityQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/country/ProvinceQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/product/ColorQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/product/FeatureQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/product/ImgQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/product/ProductQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/product/SkuQuery.java=UTF-8
+encoding//src/main/java/com/ll/core/query/product/TypeQuery.java=UTF-8
